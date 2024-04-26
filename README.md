@@ -1,2 +1,2 @@
 # SeamCarving
-Using seem carving to remove seams from an image
+Using seam carving to remove seams from an image
